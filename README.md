@@ -1,2 +1,2 @@
 # Sparks_projct
-Machine Leaning Project 
+DATA SCIENCE PROJECT
